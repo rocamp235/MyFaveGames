@@ -13,6 +13,21 @@
 		BB2055272330075300426E41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB2055252330075300426E41 /* Main.storyboard */; };
 		BB2055292330075400426E41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB2055282330075400426E41 /* Assets.xcassets */; };
 		BB20552C2330075400426E41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB20552A2330075400426E41 /* LaunchScreen.storyboard */; };
+		BB20553523300CA800426E41 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB20553423300CA800426E41 /* WebKit.framework */; };
+		BB20553B2330152400426E41 /* mall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB2055372330152400426E41 /* mall.jpg */; };
+		BB20553C2330152400426E41 /* bike.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB2055382330152400426E41 /* bike.jpg */; };
+		BB20553D2330152400426E41 /* googles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB2055392330152400426E41 /* googles.jpg */; };
+		BB20553E2330152400426E41 /* rvc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB20553A2330152400426E41 /* rvc.jpg */; };
+		BB6FE5722330339500832F5C /* wow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE5712330339400832F5C /* wow.jpg */; };
+		BB6FE574233038EB00832F5C /* hs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE573233038EB00832F5C /* hs.jpg */; };
+		BB6FE57623303B0F00832F5C /* csgo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE57523303B0F00832F5C /* csgo.jpg */; };
+		BB6FE57823303C7700832F5C /* overwatch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE57723303C7700832F5C /* overwatch.jpg */; };
+		BB6FE57A23303F3100832F5C /* fifa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE57923303F3100832F5C /* fifa.jpg */; };
+		BB6FE57C23303FCB00832F5C /* gtav.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE57B23303FCB00832F5C /* gtav.jpg */; };
+		BB6FE57E2330419900832F5C /* mario.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE57D2330419900832F5C /* mario.jpg */; };
+		BB6FE580233042F500832F5C /* mk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE57F233042F500832F5C /* mk.jpg */; };
+		BB6FE5822330443A00832F5C /* civ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE5812330443A00832F5C /* civ.jpg */; };
+		BB6FE5842330453200832F5C /* nba2k.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB6FE5832330453200832F5C /* nba2k.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,21 @@
 		BB2055282330075400426E41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB20552B2330075400426E41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB20552D2330075400426E41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB20553423300CA800426E41 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		BB2055372330152400426E41 /* mall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mall.jpg; path = ../../images/mall.jpg; sourceTree = "<group>"; };
+		BB2055382330152400426E41 /* bike.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bike.jpg; path = ../../images/bike.jpg; sourceTree = "<group>"; };
+		BB2055392330152400426E41 /* googles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = googles.jpg; path = ../../images/googles.jpg; sourceTree = "<group>"; };
+		BB20553A2330152400426E41 /* rvc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rvc.jpg; path = ../../images/rvc.jpg; sourceTree = "<group>"; };
+		BB6FE5712330339400832F5C /* wow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wow.jpg; sourceTree = "<group>"; };
+		BB6FE573233038EB00832F5C /* hs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hs.jpg; sourceTree = "<group>"; };
+		BB6FE57523303B0F00832F5C /* csgo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = csgo.jpg; sourceTree = "<group>"; };
+		BB6FE57723303C7700832F5C /* overwatch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = overwatch.jpg; sourceTree = "<group>"; };
+		BB6FE57923303F3100832F5C /* fifa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fifa.jpg; sourceTree = "<group>"; };
+		BB6FE57B23303FCB00832F5C /* gtav.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gtav.jpg; sourceTree = "<group>"; };
+		BB6FE57D2330419900832F5C /* mario.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mario.jpg; sourceTree = "<group>"; };
+		BB6FE57F233042F500832F5C /* mk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mk.jpg; sourceTree = "<group>"; };
+		BB6FE5812330443A00832F5C /* civ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = civ.jpg; sourceTree = "<group>"; };
+		BB6FE5832330453200832F5C /* nba2k.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nba2k.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +61,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB20553523300CA800426E41 /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,8 +71,10 @@
 		BB2055132330075300426E41 = {
 			isa = PBXGroup;
 			children = (
+				BB205536233014EE00426E41 /* Images */,
 				BB20551E2330075300426E41 /* MyFaves */,
 				BB20551D2330075300426E41 /* Products */,
+				BB20553323300CA700426E41 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -65,6 +98,35 @@
 				BB20552D2330075400426E41 /* Info.plist */,
 			);
 			path = MyFaves;
+			sourceTree = "<group>";
+		};
+		BB20553323300CA700426E41 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BB20553423300CA800426E41 /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BB205536233014EE00426E41 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				BB6FE5832330453200832F5C /* nba2k.jpg */,
+				BB6FE5812330443A00832F5C /* civ.jpg */,
+				BB6FE57F233042F500832F5C /* mk.jpg */,
+				BB6FE57D2330419900832F5C /* mario.jpg */,
+				BB6FE57B23303FCB00832F5C /* gtav.jpg */,
+				BB6FE57923303F3100832F5C /* fifa.jpg */,
+				BB6FE57723303C7700832F5C /* overwatch.jpg */,
+				BB6FE57523303B0F00832F5C /* csgo.jpg */,
+				BB6FE573233038EB00832F5C /* hs.jpg */,
+				BB6FE5712330339400832F5C /* wow.jpg */,
+				BB2055382330152400426E41 /* bike.jpg */,
+				BB2055392330152400426E41 /* googles.jpg */,
+				BB2055372330152400426E41 /* mall.jpg */,
+				BB20553A2330152400426E41 /* rvc.jpg */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,7 +188,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB20552C2330075400426E41 /* LaunchScreen.storyboard in Resources */,
+				BB6FE57A23303F3100832F5C /* fifa.jpg in Resources */,
+				BB6FE57623303B0F00832F5C /* csgo.jpg in Resources */,
+				BB20553C2330152400426E41 /* bike.jpg in Resources */,
+				BB20553B2330152400426E41 /* mall.jpg in Resources */,
+				BB6FE580233042F500832F5C /* mk.jpg in Resources */,
+				BB6FE57823303C7700832F5C /* overwatch.jpg in Resources */,
+				BB6FE5722330339500832F5C /* wow.jpg in Resources */,
+				BB6FE5822330443A00832F5C /* civ.jpg in Resources */,
+				BB6FE574233038EB00832F5C /* hs.jpg in Resources */,
+				BB6FE57E2330419900832F5C /* mario.jpg in Resources */,
 				BB2055292330075400426E41 /* Assets.xcassets in Resources */,
+				BB6FE57C23303FCB00832F5C /* gtav.jpg in Resources */,
+				BB6FE5842330453200832F5C /* nba2k.jpg in Resources */,
+				BB20553E2330152400426E41 /* rvc.jpg in Resources */,
+				BB20553D2330152400426E41 /* googles.jpg in Resources */,
 				BB2055272330075300426E41 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -295,7 +371,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvelleycollege.MyFaves;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -312,7 +388,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvelleycollege.MyFaves;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
